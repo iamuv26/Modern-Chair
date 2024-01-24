@@ -1,1 +1,1 @@
-# Modern-Chair
+# Image Gallery
